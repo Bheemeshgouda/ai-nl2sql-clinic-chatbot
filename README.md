@@ -1,5 +1,4 @@
-# ai-nl2sql-clinic-chatbot
-AI-powered Natural Language to SQL chatbot built using Vanna AI 2.0, FastAPI, and SQLite. Converts user queries into SQL, validates them, executes safely, and returns results. Uses Ollama (llama3) as local LLM for intelligent query generation.
+## AI-Powered Natural Language to SQL (NL2SQL) – Clinic Demo
 
 This project is a working **Natural Language to SQL** chatbot over a small SQLite clinic database. It uses **Vanna AI 2.0** + **FastAPI** to generate SQL from English questions, validates the SQL for safety, executes it on SQLite, and returns results (and optionally charts).
 

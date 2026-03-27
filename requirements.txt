@@ -1,0 +1,20 @@
+# vanna[fastapi,sqlite]>=2.0.0
+# fastapi
+# uvicorn[standard]
+# plotly
+# pandas
+# python-dotenv
+# openai
+
+
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+python-dotenv
+plotly
+vanna
+openai
+requests
+sqlparse
